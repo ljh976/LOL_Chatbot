@@ -1,7 +1,7 @@
 # LOL_Chatbot
 League of Legends Chat Bot<br>
 
-[![Watch the video](https://i9.ytimg.com/vi/TXKCOLc_HIc/mq1.jpg?sqp=CPjA7PYF&rs=AOn4CLDYeSQarrjM9sVnr23c-wB250t_sg)](https://youtu.be/TXKCOLc_HIc)<br>
+[![Video](https://i9.ytimg.com/vi/TXKCOLc_HIc/mq2.jpg?sqp=CNiV8PYF&rs=AOn4CLBW8Q0XNZVrt-m6r1eS16ABcpXoRw)](https://www.youtube.com/watch?v=TXKCOLc_HIc&feature=youtu.be)
 Video Explanation
 
 APIs are provided by Riot, op.gg, and MessengerBot.
