@@ -231,7 +231,7 @@ function response(room, msg, sender, isGroupChat, replier, ImageDB, packageName,
 	if (msg.includes('/t ')) 
 	      replier.reply( Api.papagoTranslate('en' ,'ko', msg.substring(3, msg.length)) );  
 	    
-    	if(msg.includes('/번역 '))
+    	if(msg.includes('/번역 ') || msg.includes('/tk '))
 	      replier.reply( Api.papagoTranslate('ko', 'en',  msg.substring(4, msg.length)) );
 	    
 }
