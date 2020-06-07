@@ -228,6 +228,12 @@ function response(room, msg, sender, isGroupChat, replier, ImageDB, packageName,
 		jg_times();
 	if (msg == "/server") 
 		lol_serverStatus();
+	if (msg.includes('/t ')) 
+	      replier.reply( Api.papagoTranslate('en' ,'ko', msg.substring(3, msg.length)) );  
+	    
+    	if(msg.includes('/번역 '))
+	      replier.reply( Api.papagoTranslate('ko', 'en',  msg.substring(4, msg.length)) );
+	    
 }
 function onStartCompile() {
 
