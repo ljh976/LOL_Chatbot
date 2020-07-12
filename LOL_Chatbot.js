@@ -2,7 +2,7 @@ const scriptName = "LOL_Chatbot.js";
 
 function response(room, msg, sender, isGroupChat, replier, ImageDB, packageName, threadId) {
 
-	var lol_apiKey = "RGAPI-2dde4d17-50d6-428a-a8a2-44d41f3aeb41"; //temporal
+	var lol_apiKey = ""; //temporal
  
 
 	function to_HTML(url) { //conver url to html
